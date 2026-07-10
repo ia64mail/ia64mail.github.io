@@ -1,0 +1,16 @@
+title: Research Notes — Ihor Cherednichenko
+description: >-
+  Case-study research on AI-agent-driven software development: the
+  ticket-driven development methodology, measured on Quorum — a working
+  multi-agent research vehicle.
+url: "https://ia64mail.github.io"
+baseurl: ""
+author: Ihor Cherednichenko
+github_username: ia64mail
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+show_excerpts: false
