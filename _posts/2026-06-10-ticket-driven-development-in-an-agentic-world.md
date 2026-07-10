@@ -2,7 +2,7 @@
 layout: post
 title: "Ticket-Driven Development in an Agentic World"
 description: "What a ticket becomes when the agent compiles it — and whether the methodology holds up on cost, complexity, and adoption, measured on an enterprise codebase and the Quorum research vehicle."
-date: 2026-07-05
+date: 2026-06-10
 tags: [methodology, agents]
 permalink: /quorum/ticket-driven-development-in-an-agentic-world/
 ---
