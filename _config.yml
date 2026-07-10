@@ -8,9 +8,6 @@ baseurl: ""
 author: Ihor Cherednichenko
 github_username: ia64mail
 
-theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-
-show_excerpts: false

@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
   <script type="module">
     const blocks = document.querySelectorAll("div.language-mermaid, pre > code.language-mermaid");
@@ -20,7 +20,4 @@
       await mermaid.run();
     }
   </script>
-  <style>
-    pre.mermaid { background: none; border: none; text-align: center; }
-  </style>
 </head>

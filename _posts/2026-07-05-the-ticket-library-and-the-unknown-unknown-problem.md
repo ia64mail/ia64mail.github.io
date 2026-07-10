@@ -3,6 +3,7 @@ layout: post
 title: "The Ticket Library and the “Unknown Unknown” Problem"
 description: "A pre-registered 12-run experiment measuring what a ticket library is worth against a defect nobody wrote: roughly doubled odds of a safe fix — and still no guarantee."
 date: 2026-07-05
+tags: [experiments, knowledge-management, agents]
 permalink: /quorum/the-ticket-library-and-the-unknown-unknown-problem/
 ---
 
