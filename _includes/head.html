@@ -16,7 +16,8 @@
         p.textContent = el.textContent;
         target.replaceWith(p);
       });
-      mermaid.initialize({ startOnLoad: false, theme: "neutral" });
+      const dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      mermaid.initialize({ startOnLoad: false, theme: dark ? "dark" : "neutral" });
       await mermaid.run();
     }
   </script>
