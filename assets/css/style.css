@@ -59,6 +59,11 @@ a:hover { text-decoration: underline; }
   color: var(--text);
   font-size: 0.95rem;
 }
+.site-links > a:not(.icon-link) {
+  text-transform: uppercase;
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+}
 .site-links a:hover { color: var(--link); text-decoration: none; }
 .icon-link { display: inline-flex; align-items: center; }
 
