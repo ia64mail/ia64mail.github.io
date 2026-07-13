@@ -7,6 +7,7 @@ url: "https://ia64mail.github.io"
 baseurl: ""
 author: Ihor Cherednichenko
 github_username: ia64mail
+google_analytics: G-0KLXRY2H9M
 
 plugins:
   - jekyll-seo-tag
